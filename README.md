@@ -2,4 +2,4 @@
 
 Find solutions for your 4=10 puzzles
 
-With home made carrousel woohoo
+Also usable for the extentions e.g. 4=4.
